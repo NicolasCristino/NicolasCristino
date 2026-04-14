@@ -1,9 +1,91 @@
-# 💫 Relentless for the next level.
-# Fullstack developer and JavaScript enthusiastic.
+# 👋 Hi, I'm Nicolas Leite Cristino
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niconsz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-leite-cristino-6b3536231) 
+💻 Fullstack Developer with 4+ years of experience building scalable web applications, APIs, and data-driven systems.  
+🚀 Passionate about clean architecture, performance, and creating solutions that actually solve real problems.  
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=php&logoColor=#777BB4) ![VueJS](https://img.shields.io/badge/vueJS-%23323330.svg?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D) ![CSharp](https://img.shields.io/badge/csharp-%231572B6.svg?style=for-the-badge&logo=csharp&logoColor=#1867C0) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
+## ⚡ About Me
+
+- 🎓 Degree in **Analysis and Systems Development**
+- 💼 Experience with **enterprise systems, APIs, and database optimization**
+- 🧠 Strong focus on **backend architecture and performance**
+- 🌱 Always learning and improving in modern web technologies
+- 🎯 Goal: Become a **Tech Lead** and build high-impact products
+
+---
+
+## 🌐 Connect with Me
+
+- 📸 Instagram: https://instagram.com/niconsz  
+- 💼 LinkedIn: https://linkedin.com/in/nicolas-leite-cristino-6b3536231  
+- 💻 GitHub: https://github.com/NicolasCristino  
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Backend
+- PHP (Laravel)
+- C# (.NET Core)
+- REST APIs
+- SQL Server / MySQL / Oracle
+
+### 🎨 Frontend
+- JavaScript (ES6+)
+- Vue.js / Nuxt
+- React / Next.js
+- HTML5 / CSS3 / Bootstrap
+
+### 🛠️ Tools & Others
+- Git & GitHub
+- jQuery
+- Dapper
+- ApexCharts
+- WordPress
+- Docker (basic knowledge)
+
+---
+
+## 📊 What I Do
+
+- 🔹 Build and maintain **scalable web systems**
+- 🔹 Develop **high-performance APIs**
+- 🔹 Optimize **database queries and architecture**
+- 🔹 Create **dynamic dashboards and data visualizations**
+- 🔹 Work across **frontend + backend (fullstack)**
+
+---
+
+## 🚀 Featured Projects
+
+> You can explore more in my repositories 👇
+
+- 📌 Fullstack CRUD systems with authentication
+- 📌 API integrations and backend services
+- 📌 Financial and data management dashboards
+- 📌 Algorithm and logic-based projects
+
+---
+
+## 📈 GitHub Stats
+
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasCristino&show_icons=true&theme=tokyonight)
+
+---
+
+## 💡 Philosophy
+
+> "Consistency beats intensity."
+
+I believe that great software is built through **discipline, continuous learning, and attention to detail**.
+
+---
+
+## 📬 Contact
+
+📧 nickcristinoleite@gmail.com  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
