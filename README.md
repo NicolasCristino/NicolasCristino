@@ -10,8 +10,6 @@
 - 🎓 Degree in Analysis and Systems Development  
 - 💼 Professional experience in building **enterprise-level systems**  
 - ⚙️ Strong backend expertise with performance and scalability focus  
-- 🌎 Open to **international opportunities (remote or relocation)**  
-- 🎯 Aspiring **Tech Lead**  
 
 ---
 
