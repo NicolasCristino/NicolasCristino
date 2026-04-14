@@ -1,84 +1,66 @@
 # 👋 Hi, I'm Nicolas Leite Cristino
 
-💻 Fullstack Developer with 4+ years of experience building scalable web applications, APIs, and data-driven systems.  
-🚀 Passionate about clean architecture, performance, and creating solutions that actually solve real problems.  
+💻 Fullstack Developer with 4+ years of experience building scalable web applications and APIs.  
+🚀 Focused on performance, clean architecture, and real-world problem solving.  
 
 ---
 
 ## ⚡ About Me
 
-- 🎓 Degree in **Analysis and Systems Development**
-- 💼 Experience with **enterprise systems, APIs, and database optimization**
-- 🧠 Strong focus on **backend architecture and performance**
-- 🌱 Always learning and improving in modern web technologies
-- 🎯 Goal: Become a **Tech Lead** and build high-impact products
-
----
-
-## 🌐 Connect with Me
-
-- 📸 Instagram: https://instagram.com/niconsz  
-- 💼 LinkedIn: https://linkedin.com/in/nicolas-leite-cristino-6b3536231  
-- 💻 GitHub: https://github.com/NicolasCristino  
+- 🎓 Degree in Analysis and Systems Development  
+- 💼 Professional experience in building **enterprise-level systems**  
+- ⚙️ Strong backend expertise with performance and scalability focus  
+- 🌎 Open to **international opportunities (remote or relocation)**  
+- 🎯 Aspiring **Tech Lead**  
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Backend
+### Backend
 - PHP (Laravel)
 - C# (.NET Core)
 - REST APIs
 - SQL Server / MySQL / Oracle
 
-### 🎨 Frontend
+### Frontend
 - JavaScript (ES6+)
 - Vue.js / Nuxt
 - React / Next.js
 - HTML5 / CSS3 / Bootstrap
 
-### 🛠️ Tools & Others
-- Git & GitHub
-- jQuery
+### Tools
+- Git / GitHub
+- Docker (basic)
 - Dapper
+- jQuery
 - ApexCharts
-- WordPress
-- Docker (basic knowledge)
 
 ---
 
-## 📊 What I Do
+## 📊 What I Bring
 
-- 🔹 Build and maintain **scalable web systems**
-- 🔹 Develop **high-performance APIs**
-- 🔹 Optimize **database queries and architecture**
-- 🔹 Create **dynamic dashboards and data visualizations**
-- 🔹 Work across **frontend + backend (fullstack)**
-
----
-
-## 🚀 Featured Projects
-
-> You can explore more in my repositories 👇
-
-- 📌 Fullstack CRUD systems with authentication
-- 📌 API integrations and backend services
-- 📌 Financial and data management dashboards
-- 📌 Algorithm and logic-based projects
+- ✅ Scalable and maintainable backend architectures  
+- ✅ Clean and well-structured APIs  
+- ✅ Database performance optimization  
+- ✅ Fullstack development with strong backend mindset  
+- ✅ Business-oriented problem solving  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasCristino&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasCristino&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCristino&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💡 Philosophy
+## 🌐 Connect with Me
 
-> "Consistency beats intensity."
-
-I believe that great software is built through **discipline, continuous learning, and attention to detail**.
+- LinkedIn: https://linkedin.com/in/nicolas-leite-cristino-6b3536231  
+- GitHub: https://github.com/NicolasCristino  
+- Instagram: https://instagram.com/niconsz  
 
 ---
 
@@ -88,4 +70,4 @@ I believe that great software is built through **discipline, continuous learning
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ *Always open to collaborations, freelance work, and global opportunities.*
